@@ -1,3 +1,4 @@
+/* setting file : "start": "node your-script.js" */
 const server = require('server');
 
 const { get, post } = server.router;
